@@ -1,1 +1,1 @@
-# simple_docker_dev_django_postgresql
+# Simple docker development image to use django using postgresql
