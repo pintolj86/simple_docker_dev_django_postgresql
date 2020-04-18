@@ -1,4 +1,4 @@
-# Simple docker development image to use django using postgresql
+# Simple docker compose set up to use django and postgresql
 
 This repository is a ready to go base project to develop a basic django app, using docker compose, django and postgresql.
 
