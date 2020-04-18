@@ -22,6 +22,7 @@ DATABASES = {
         'USER': 'postgres',
         'HOST': 'db',
         'PORT': 5432,
+        'PASSWORD' : '<password_here>'
     }
 }
 ```
